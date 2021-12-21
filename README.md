@@ -12,7 +12,7 @@
   <img align="center" alt="Jean-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jean-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Jean-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="right" alt="Jean-pic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4E03AQHbE8U3oBYKOg/profile-displayphoto-shrink_800_800/0/1608133223648?e=1639008000&v=beta&t=DDF--RG2IRUEKsQPg3TOTP2cEVIvJQEEmKWZLKhylME">
+  <img align="right" alt="Jean-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/72111010?s=400&u=206017fd30e3a5495d9ce1c197b8040d19620ceb&v=4">
 </div>
   
   ##
