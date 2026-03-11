@@ -11,13 +11,11 @@
 
 ## 🚀 Sobre mim
 
-👋 Olá! Sou Jean Ramalho, analista de software sênior com mais de 10 anos de experiência em TI. Atualmente em transição para **desenvolvimento mobile e web**, unindo minha paixão por tecnologia à minha trajetória em infraestrutura e suporte. 
+👋 Olá! Sou Jean Ramalho, analista de software sênior com mais de 10 anos de experiência em TI. Atualmente focado em **desenvolvimento mobile e web**, unindo minha paixão por tecnologia à minha trajetória em infraestrutura e suporte. 
 
 ✅ Reconhecido como **melhor analista do setor** na LINX, onde fui promovido rapidamente a sênior e liderei equipes temporariamente.  
 ✅ Experiência sólida em **React Native**, **Swift (UIKit/ViewCode)**, **React**, **Node.js** e **APIs REST**.  
 ✅ Perfil analítico, foco em performance e resolução de problemas, com forte habilidade de comunicação e trabalho em equipe.
-
-💡 **Busco recolocação como Desenvolvedor**, aberto a novos desafios e oportunidades de aprendizado.
 
 ---
 
