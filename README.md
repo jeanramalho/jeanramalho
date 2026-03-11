@@ -105,12 +105,6 @@
 
 ---
 
-## 🐍 Contribuições
-
-![Snake animation](https://github.com/jeanramalho/jeanramalho/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 📫 Vamos conversar?
 
 Estou sempre aberto a novos contatos, oportunidades e trocas de conhecimento. Me encontre nas redes abaixo:
